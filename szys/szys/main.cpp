@@ -11,8 +11,8 @@ int main(int argc, char **argv)
 {
 	if (argc != 3)
 	{
-		cout << "ÃüÁîÐÐ²ÎÊý¸ñÊ½´íÎó£¡" << endl;
-		cout << "ÇëÊäÈëÁ½¸ö²ÎÊý£¬µÚÒ»¸öÎª³öÌâÊýÁ¿£¨1000ÒÔÄÚ£©£¬µÚ¶þ¸öÎª³Ë·½±íÊ¾ÐÎÊ½£¨1±íÊ¾^£¬2±íÊ¾**£©" << endl;
+		cout << "å‘½ä»¤è¡Œå‚æ•°æ ¼å¼é”™è¯¯ï¼" << endl;
+		cout << "è¯·è¾“å…¥ä¸¤ä¸ªå‚æ•°ï¼Œç¬¬ä¸€ä¸ªä¸ºå‡ºé¢˜æ•°é‡ï¼ˆ1000ä»¥å†…ï¼‰ï¼Œç¬¬äºŒä¸ªä¸ºä¹˜æ–¹è¡¨ç¤ºå½¢å¼ï¼ˆ1è¡¨ç¤º^ï¼Œ2è¡¨ç¤º**ï¼‰" << endl;
 		return 0;
 	}
 	int a1len = strlen(argv[1]);
@@ -20,24 +20,24 @@ int main(int argc, char **argv)
 	{
 		if (!('0' <= argv[1][i]&&  argv[1][i] <= '9'))
 		{
-			cout << "²ÎÊý1´íÎó£¬ÇëÊäÈëÊý×Ö" << endl;
+			cout << "å‚æ•°1é”™è¯¯ï¼Œè¯·è¾“å…¥æ•°å­—" << endl;
 			return 0;
 		}
 	}
 	int a1num = atoi(argv[1]);
 	if (!(0 < a1num <= 1000))
 	{
-		cout << "²ÎÊý1´íÎó£¬³öÌâÊýÁ¿Ó¦Îª1-1000Ö®ÄÚµÄÕûÊý" << endl;
+		cout << "å‚æ•°1é”™è¯¯ï¼Œå‡ºé¢˜æ•°é‡åº”ä¸º1-1000ä¹‹å†…çš„æ•´æ•°" << endl;
 		return 0;
 	}
 	if (strlen(argv[2]) != 1)
 	{
-		cout<<"²ÎÊý2³¤¶È´íÎó£¬ÇëÊäÈë1»ò2"<<endl;
+		cout<<"å‚æ•°2é•¿åº¦é”™è¯¯ï¼Œè¯·è¾“å…¥1æˆ–2"<<endl;
 		return 0;
 	}
 	if (!(argv[2][0] == '1' || argv[2][0] == '2'))
 	{
-		cout<<"²ÎÊý2ÊýÖµ´íÎó£¬ÇëÊäÈë1»ò2"<<endl;
+		cout<<"å‚æ•°2æ•°å€¼é”™è¯¯ï¼Œè¯·è¾“å…¥1æˆ–2"<<endl;
 		return 0;
 	}
 	int a2num = atoi(argv[2]);
@@ -53,29 +53,29 @@ int main(int argc, char **argv)
 	{
 		char *timu = (char *)malloc(sizeof(char) * 100);
 		timu= chuti(a2num);
-		//save(timu);
+		save(timu);
 		char *correct= jieti(a2num, timu);
 		char answer[100];
-		cout<<"ÇëÊäÈëÄãµÄ´ð°¸"<<endl;
+		cout<<"è¯·è¾“å…¥ä½ çš„ç­”æ¡ˆ"<<endl;
 		cin >> answer;
 		getchar();
 		
 		if (strcmp(correct, answer))
 		{
 			x+=1;
-			cout<<"´ð°¸´íÎó"<<endl;
-			cout << "ÕýÈ·´ð°¸Îª" <<correct<< endl;
+			cout<<"ç­”æ¡ˆé”™è¯¯"<<endl;
+			cout << "æ­£ç¡®ç­”æ¡ˆä¸º" <<correct<< endl;
 		}
 		else
 		{
 			v += 1;
-			cout << "´ð°¸ÕýÈ·" << endl;
+			cout << "ç­”æ¡ˆæ­£ç¡®" << endl;
 		}
 	}
-	cout<<"´ðÌâÍê³É"<<endl;
-	cout<<"ÕýÈ·Êý£º"<<v<<"´íÎóÊý£º"<<x<<endl;
+	cout<<"ç­”é¢˜å®Œæˆ"<<endl;
+	cout<<"æ­£ç¡®æ•°ï¼š"<<v<<"é”™è¯¯æ•°ï¼š"<<x<<endl;
 	double lv = v / (v + x);
-	cout << "ÕýÈ·ÂÊ£º" << lv << endl;
+	cout << "æ­£ç¡®çŽ‡ï¼š" << lv << endl;
 	system("pause");
 	return 0;
 }
