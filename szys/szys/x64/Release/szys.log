@@ -1,0 +1,26 @@
+﻿  chuti.cpp
+c:\users\dell\source\repos\szys\szys\chuti.cpp(123): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+c:\users\dell\source\repos\szys\szys\chuti.cpp(128): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\chuti.cpp(129): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+c:\users\dell\source\repos\szys\szys\chuti.cpp(290): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+c:\users\dell\source\repos\szys\szys\chuti.cpp(295): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\chuti.cpp(296): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+c:\users\dell\source\repos\szys\szys\chuti.cpp(27): warning C4101: 'dd': unreferenced local variable
+c:\users\dell\source\repos\szys\szys\chuti.cpp(196): warning C4101: 'dd': unreferenced local variable
+jieti.obj : warning LNK4006: "char * __cdecl jieti(int,char *)" (?jieti@@YAPEADHPEAD@Z) already defined in jieti.obj; second definition ignored
+jieti.obj : warning LNK4006: "char * __cdecl calculate(char *,int,int,int,int)" (?calculate@@YAPEADPEADHHHH@Z) already defined in jieti.obj; second definition ignored
+jieti.obj : warning LNK4006: "int __cdecl gongbeishu(int,int)" (?gongbeishu@@YAHHH@Z) already defined in jieti.obj; second definition ignored
+jieti.obj : warning LNK4006: "int __cdecl gongyueshu(int,int)" (?gongyueshu@@YAHHH@Z) already defined in jieti.obj; second definition ignored
+chuti.obj : warning LNK4006: "char * __cdecl chuti(int)" (?chuti@@YAPEADH@Z) already defined in chuti.obj; second definition ignored
+main.obj : warning LNK4006: "void __cdecl save(char *)" (?save@@YAXPEAD@Z) already defined in main.obj; second definition ignored
+C:\Users\dell\source\repos\szys\x64\Release\szys.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  Generating code
+c:\users\dell\source\repos\szys\szys\chuti.cpp(366): warning C4172: returning address of local variable or temporary: chuti
+c:\users\dell\source\repos\szys\szys\jieti.cpp(688): warning C4715: 'calculate': not all control paths return a value
+c:\users\dell\source\repos\szys\szys\jieti.cpp(182): warning C4172: returning address of local variable or temporary: res
+c:\users\dell\source\repos\szys\szys\jieti.cpp(684): warning C4172: returning address of local variable or temporary: newtimu
+  3 of 53 functions ( 5.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  szys.vcxproj -> C:\Users\dell\source\repos\szys\x64\Release\szys.exe

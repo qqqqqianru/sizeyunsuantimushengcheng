@@ -1,0 +1,72 @@
+﻿  chuti.cpp
+c:\users\dell\source\repos\szys\szys\chuti.cpp(123): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+c:\users\dell\source\repos\szys\szys\chuti.cpp(128): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\chuti.cpp(129): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+c:\users\dell\source\repos\szys\szys\chuti.cpp(290): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+c:\users\dell\source\repos\szys\szys\chuti.cpp(295): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\chuti.cpp(296): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+c:\users\dell\source\repos\szys\szys\chuti.cpp(27): warning C4101: 'dd': unreferenced local variable
+c:\users\dell\source\repos\szys\szys\chuti.cpp(196): warning C4101: 'dd': unreferenced local variable
+  jieti.cpp
+c:\users\dell\source\repos\szys\szys\jieti.cpp(50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(100): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(106): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(190): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(284): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(310): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(368): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(395): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(425): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(451): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(602): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(611): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(619): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(694): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+c:\users\dell\source\repos\szys\szys\chuti.cpp(123): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+c:\users\dell\source\repos\szys\szys\chuti.cpp(128): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\chuti.cpp(129): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+c:\users\dell\source\repos\szys\szys\chuti.cpp(290): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+c:\users\dell\source\repos\szys\szys\chuti.cpp(295): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\chuti.cpp(296): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+c:\users\dell\source\repos\szys\szys\chuti.cpp(27): warning C4101: 'dd': unreferenced local variable
+c:\users\dell\source\repos\szys\szys\chuti.cpp(196): warning C4101: 'dd': unreferenced local variable
+c:\users\dell\source\repos\szys\szys\jieti.cpp(50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(100): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(106): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(190): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(284): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(310): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(368): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(395): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(425): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(451): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(602): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(611): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(619): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\jieti.cpp(694): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\save.cpp(9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\save.cpp(14): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\dell\source\repos\szys\szys\main.cpp(18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\main.cpp(28): warning C4804: '<=': unsafe use of type 'bool' in operation
+  save.cpp
+c:\users\dell\source\repos\szys\szys\save.cpp(9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\source\repos\szys\szys\save.cpp(14): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating Code...
+c:\users\dell\source\repos\szys\szys\chuti.cpp(366): warning C4172: returning address of local variable or temporary: chuti
+c:\users\dell\source\repos\szys\szys\jieti.cpp(688): warning C4715: 'calculate': not all control paths return a value
+c:\users\dell\source\repos\szys\szys\jieti.cpp(182): warning C4172: returning address of local variable or temporary: res
+c:\users\dell\source\repos\szys\szys\jieti.cpp(684): warning C4172: returning address of local variable or temporary: newtimu
+c:\users\dell\source\repos\szys\szys\jieti.cpp(688): warning C4715: 'calculate': not all control paths return a value
+c:\users\dell\source\repos\szys\szys\jieti.cpp(182): warning C4172: returning address of local variable or temporary: res
+c:\users\dell\source\repos\szys\szys\jieti.cpp(684): warning C4172: returning address of local variable or temporary: newtimu
+c:\users\dell\source\repos\szys\szys\chuti.cpp(366): warning C4172: returning address of local variable or temporary: chuti
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+main.obj : warning LNK4006: "char * __cdecl calculate(char *,int,int,int,int)" (?calculate@@YAPEADPEADHHHH@Z) already defined in jieti.obj; second definition ignored
+main.obj : warning LNK4006: "char * __cdecl chuti(int)" (?chuti@@YAPEADH@Z) already defined in chuti.obj; second definition ignored
+main.obj : warning LNK4006: "int __cdecl gongbeishu(int,int)" (?gongbeishu@@YAHHH@Z) already defined in jieti.obj; second definition ignored
+main.obj : warning LNK4006: "int __cdecl gongyueshu(int,int)" (?gongyueshu@@YAHHH@Z) already defined in jieti.obj; second definition ignored
+main.obj : warning LNK4006: "char * __cdecl jieti(int,char *)" (?jieti@@YAPEADHPEAD@Z) already defined in jieti.obj; second definition ignored
+save.obj : warning LNK4006: "void __cdecl save(char *)" (?save@@YAXPEAD@Z) already defined in main.obj; second definition ignored
+C:\Users\dell\source\repos\szys\x64\Debug\szys.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  szys.vcxproj -> C:\Users\dell\source\repos\szys\x64\Debug\szys.exe
